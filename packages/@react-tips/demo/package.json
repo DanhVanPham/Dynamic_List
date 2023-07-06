@@ -1,0 +1,12 @@
+{
+  "name": "@react-tips/demo",
+  "description": "Demo",
+  "version": "0.0.0",
+  "private": false,
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}

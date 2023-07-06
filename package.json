@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-list",
+  "description": "A virtualized component like Slack Messages List",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*/*"
+  ],
+  "scripts": {
+    "dev": "yarn workspace @react-tips/demo webpack serve"
+  },
+  "dependencies": {
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "@babel/preset-typescript": "^7.22.5",
+    "@types/react": "17.0.35",
+    "@types/react-dom": "^17.0.20",
+    "babel-loader": "^9.1.2"
+  }
+}

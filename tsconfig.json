@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "Node",
+    "target": "ESNext",
+    "lib": ["ES2017", "DOM"],
+    "skipLibCheck": true
+  },
+  "include": ["packages"],
+  "exclude": ["**/node_modules"]
+}
