@@ -1,5 +1,5 @@
-import React from "react";
+import React from 'react'
 
 export function DynamicList() {
-  return <div>DynamicList</div>;
+  return <div>DynamicList</div>
 }
